@@ -15,3 +15,4 @@ If it is after 9am the Pico will display a green light. If not, a solid red ligh
 - [ ] Create better error handling
 - [ ] Add 8 Leds to show hours remaining before 9am ABQ time
 - [ ] Add project setup documentation (circuit diagram for Pico)
+- [ ] Add deepsleep mode to conserve power
